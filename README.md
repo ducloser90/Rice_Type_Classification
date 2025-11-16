@@ -14,12 +14,12 @@
 
 ### 2. Data Preprocessing
 
-# Load and Inspect DataDrop unnecessary columns (e.g., ID)
+#### Load and Inspect DataDrop unnecessary columns (e.g., ID)
 
-# Check for missing values
+#### Check for missing values
 
-# Normalize Features
+#### Normalize Features
 
-# Save original data for inference later
+#### Save original data for inference later
 
-# Split Data
+#### Split Data
