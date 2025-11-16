@@ -3,8 +3,7 @@
 This project uses the **Rice Type Classification** dataset from Kaggle, which contains images of **five different rice varieties**. The objective is to train a deep learning model capable of identifying the type of rice grain based on its visual characteristics.
 
 > **Dataset Source:** Kaggle — "Rice Type Classification"  
-(Insert official link here if allowed by Kaggle terms)
-
+https://www.kaggle.com/datasets/mssmartypants/rice-type-classification
 ---
 
 ### 🏷️ Classes
